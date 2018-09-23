@@ -1,4 +1,0 @@
-Do configuration of FB environment by this manual:
-- https://developers.facebook.com/docs/ios/getting-started
-
-Also look for checkpoints "@FacebookSDK+AudienceNetwork:" in sample code
