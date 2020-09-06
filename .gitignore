@@ -1,0 +1,7 @@
+# Hide big files from tracking, but use archives
+AppSerenity-7.0.0/Frameworks/*/
+AppSerenity-7.0.1/Frameworks/*/
+AppSerenity-7.0.2/Frameworks/*/
+AppSerenity-7.0.3/Frameworks/*/
+AppSerenity-7.0.4/Frameworks/*/
+AppSerenity-7.1.0/Frameworks/*/
